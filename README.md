@@ -1,3 +1,3 @@
 # BackgroundLocationTracking
 
-get location updates with foreground service
+Get location updates with foreground service.
